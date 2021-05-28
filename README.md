@@ -12,10 +12,11 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </p>
 </div>
+<br>
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src = "https://github-readme-stats.vercel.app/api?username=gut27&count_private=true&show_icons=true&bg_color=25,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF&include_all_commits=true&title_color=003454&icon_color=8497B0"/>
-  <\a>
+  </a>
 </p>
 <!--
 **gut27/gut27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
