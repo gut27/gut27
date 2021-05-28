@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jeong EunHye 👋
 <h3>🛠Tech Skill</h3>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
