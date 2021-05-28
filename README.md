@@ -11,8 +11,7 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gut27
-?count_private=true&show_icons=true&bg)color=DEG,EBFBFF,C5F4FF,2E75B6,2E75B6)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gut27&count_private=true&show_icons=true&bg_color=DEG,EBFBFF,C5F4FF,2E75B6,2E75B6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gut27/gut27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
