@@ -15,7 +15,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gut27&count_private=true&show_icons=true&bg_color=25,FFFFFF,FBFEFF,FBFEFF,EBFBFF,EBFBFF,EBFBFF,DDF9FF,C5F4FF)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gut27&count_private=true&show_icons=true&bg_color=25,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gut27&count_private=true&show_icons=true&bg_color=25,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gut27&count_private=true&show_icons=true&bg_color=25,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
