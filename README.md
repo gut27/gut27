@@ -13,7 +13,7 @@
 </p>
 </div>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gut27&count_private=true&show_icons=true&bg_color=DEG,EBFBFF,C5F4FF,2E75B6)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gut27&count_private=true&show_icons=true&bg_color=DEG,EBFBFF,C5F4FF,2E75B6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
