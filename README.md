@@ -13,7 +13,7 @@
 </p>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gut27&count_private=true&show_icons=true&bg_color=25,FFFFFF,FBFEFF,EBFBFF,C5F4FF,0091EA,ABEFFF,71E4FF,2FD7FF,01C2E9,2FD7FF
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gut27&count_private=true&show_icons=true&bg_color=25,FFFFFF,FBFEFF,EBFBFF,C5F4FF,0091EA,ABEFFF,71E4FF,2FD7FF,01C2E9,2FD7FF,
 0082D2,006DB0,004976)](https://github.com/anuraghazra/github-readme-stats)
 
 
