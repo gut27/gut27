@@ -1,4 +1,4 @@
-<h3 align='center'>Hello, I'm gut27 👋</h3>
+<h3 align='center'>Hello, I'm guts27 👋</h3>
 <h3 align='center'>I'm currently looking for a job and doing a android project.</h3>
 <h3 align='center'>I hope you stay healthy during this time.</h3>
 <br>
