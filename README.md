@@ -4,7 +4,7 @@
 <br>
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src = "https://github-readme-stats.vercel.app/api?username=gut27&count_private=true&hide=contribs&show_icons=true&bg_color=25,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF&include_all_commits=true&title_color=003454&icon_color=8497B0"/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=guts27&count_private=true&hide=contribs&show_icons=true&bg_color=25,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFF&include_all_commits=true&title_color=003454&icon_color=8497B0"/>
   </a>
 </p>
 <br>
@@ -25,7 +25,7 @@
 </p>
 </div>
 <!--
-**gut27/gut27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**guts27/guts27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
