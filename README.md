@@ -4,7 +4,7 @@
 <br>
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src = "https://github-readme-stats.vercel.app/api?username=guts27&count_private=true&hide=contribs&show_icons=true&bg_color=25,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF,FFFFFFF&include_all_commits=true&title_color=003454&icon_color=8497B0"/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=guts27&count_private=true&hide=contribs&show_icons=true&bg_color=25,FBFEFF,EBFBFF,DDF9FF,C5F4FF,DDF9FF,EBFBFF,FBFEFF&include_all_commits=true&title_color=003454&icon_color=8497B0"/>
   </a>
 </p>
 <br>
